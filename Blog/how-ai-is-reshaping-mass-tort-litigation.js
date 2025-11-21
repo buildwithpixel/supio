@@ -24,8 +24,8 @@
             "height": 60
           }
         },
-        "datePublished": "2024-08-15",
-        "dateModified": "2025-11-01",
+        "datePublished": "2024-08-15T09:00:00Z",
+        "dateModified": "2025-11-01T09:00:00Z",
         "mainEntityOfPage": {
           "@type": "WebPage",
           "@id": "https://www.supio.com/blog/how-ai-is-reshaping-mass-tort-litigation"
